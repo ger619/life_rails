@@ -6,7 +6,8 @@
 
 
 ## ERD
-![image](https://github.com/microverseinc/curriculum-rails/blob/main/recipe-app/images/recipe_erd.png)
+![Screenshot 2022-11-11 at 13 58 36](https://user-images.githubusercontent.com/9010615/201327018-2cb5a71c-5ab9-488f-b0a2-4f0b42f531ca.png)
+
 
 ### Cloning the project
 
