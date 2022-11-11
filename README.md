@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 # Rails recipe App
 
->Rails recipe app is a Ruby on Rails application that keeps track of all your foods, recipes, ingredients, and inventories.
+>Lifeline medical records is a solution that is used to create, update and read medical records whenever necessary.
 
 
 ## ERD
