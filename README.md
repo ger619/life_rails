@@ -13,13 +13,13 @@
 
 git clone https://github.com/ger619/life_rails.git <Your-Build-Directory>
 ``` 
-- cd rails-recipe-app
+- cd life_rails
 - rails s
 ```
 
 
 ## Built with
-- Ruby 3.1.2 on Rails 7.0.3.1
+- Ruby 3.1.2 on Rails 7.0.4
 - PostgreSQL
 
 ## Prerequisites
