@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class BiodateTest < ActiveSupport::TestCase
+class BioControllerTest < ActionDispatch::IntegrationTest
   # test "the truth" do
   #   assert true
   # end
