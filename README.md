@@ -11,7 +11,7 @@
 
 ### Cloning the project
 
-git clone https://github.com/kwambiee/rails-recipe-app.git <Your-Build-Directory>
+git clone https://github.com/ger619/life_rails.git <Your-Build-Directory>
 ``` 
 - cd rails-recipe-app
 - rails s
