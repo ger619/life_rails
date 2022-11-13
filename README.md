@@ -11,7 +11,7 @@
 
 ### Cloning the project
 
-git clone https://github.com/ger619/life_rails.git <Your-Build-Directory>
+git clone https://github.com/valuechainfactory/team_Limon_arsenal_life_line.git <Your-Build-Directory>
 ``` 
 - cd life_rails
 - rails s
